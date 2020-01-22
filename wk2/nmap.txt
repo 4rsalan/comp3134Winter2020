@@ -1,0 +1,56 @@
+root@comp3134FirstDroplet:~# nmap https://imgur.com/
+
+Starting Nmap 7.60 ( https://nmap.org ) at 2020-01-22 15:44 UTC
+Unable to split netmask from target expression: "https://imgur.com/"
+WARNING: No targets were specified, so 0 hosts scanned.
+Nmap done: 0 IP addresses (0 hosts up) scanned in 0.07 seconds
+root@comp3134FirstDroplet:~# nmap imgur.com
+
+Starting Nmap 7.60 ( https://nmap.org ) at 2020-01-22 15:44 UTC
+Nmap scan report for imgur.com (151.101.124.193)
+Host is up (0.00067s latency).
+Not shown: 998 filtered ports
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap done: 1 IP address (1 host up) scanned in 10.32 seconds
+
+root@comp3134FirstDroplet:~# nmap -p 500 reddit.com
+
+Starting Nmap 7.60 ( https://nmap.org ) at 2020-01-22 15:46 UTC
+Nmap scan report for reddit.com (151.101.65.140)
+Host is up (0.0012s latency).
+Other addresses for reddit.com (not scanned): 151.101.1.140 151.101.129.140 151.101.193.140
+
+PORT    STATE    SERVICE
+500/tcp filtered isakmp
+
+Nmap done: 1 IP address (1 host up) scanned in 0.48 seconds
+
+root@comp3134FirstDroplet:~# nmap -p 50-150 youtube.com
+
+Starting Nmap 7.60 ( https://nmap.org ) at 2020-01-22 15:47 UTC
+Nmap scan report for youtube.com (172.217.164.206)
+Host is up (0.0018s latency).
+Other addresses for youtube.com (not scanned): 2607:f8b0:400b:802::200e
+rDNS record for 172.217.164.206: yyz12s04-in-f14.1e100.net
+Not shown: 100 filtered ports
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap done: 1 IP address (1 host up) scanned in 2.84 seconds
+
+root@comp3134FirstDroplet:~# nmap -F google.com
+
+Starting Nmap 7.60 ( https://nmap.org ) at 2020-01-22 15:48 UTC
+Nmap scan report for google.com (172.217.164.206)
+Host is up (0.0015s latency).
+Other addresses for google.com (not scanned): 2607:f8b0:400b:800::200e
+rDNS record for 172.217.164.206: yyz12s04-in-f14.1e100.net
+Not shown: 98 filtered ports
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap done: 1 IP address (1 host up) scanned in 2.08 seconds

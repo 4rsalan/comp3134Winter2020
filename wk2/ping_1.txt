@@ -1,0 +1,13 @@
+PING 34.193.201.137 (34.193.201.137) 56(84) bytes of data.
+64 bytes from 34.193.201.137: icmp_seq=1 ttl=235 time=33.5 ms
+64 bytes from 34.193.201.137: icmp_seq=2 ttl=235 time=32.6 ms
+64 bytes from 34.193.201.137: icmp_seq=3 ttl=235 time=32.6 ms
+64 bytes from 34.193.201.137: icmp_seq=4 ttl=235 time=32.5 ms
+64 bytes from 34.193.201.137: icmp_seq=5 ttl=235 time=32.6 ms
+64 bytes from 34.193.201.137: icmp_seq=6 ttl=235 time=32.6 ms
+64 bytes from 34.193.201.137: icmp_seq=7 ttl=235 time=32.6 ms
+64 bytes from 34.193.201.137: icmp_seq=8 ttl=235 time=32.5 ms
+^C
+--- 34.193.201.137 ping statistics ---
+8 packets transmitted, 8 received, 0% packet loss, time 7012ms
+rtt min/avg/max/mdev = 32.573/32.734/33.531/0.363 ms
