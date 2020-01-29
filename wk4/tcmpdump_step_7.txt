@@ -1,0 +1,160 @@
+18:36:53.154950 IP 235880.cloudwaysapps.com.41588 > comp3134FirstDroplet.ssh: Flags [FP.], seq 1:53, ack 68, win 262, options [nop,nop,TS val 197011920 ecr 2740264067], length 52
+18:36:53.155011 IP comp3134FirstDroplet > 235880.cloudwaysapps.com: ICMP comp3134FirstDroplet tcp port ssh unreachable, length 112
+18:36:53.196848 IP 40.123.207.179.50672 > comp3134FirstDroplet.ssh: Flags [.], ack 42, win 229, options [nop,nop,TS val 36136277 ecr 1468985062], length 0
+18:36:53.210283 IP 40.123.207.179.50672 > comp3134FirstDroplet.ssh: Flags [P.], seq 1:22, ack 42, win 229, options [nop,nop,TS val 36136290 ecr 1468985062], length 21
+18:36:53.210362 IP comp3134FirstDroplet.ssh > 40.123.207.179.50672: Flags [.], ack 22, win 227, options [nop,nop,TS val 1468985302 ecr 36136290], length 0
+18:36:53.212009 IP comp3134FirstDroplet.ssh > 40.123.207.179.50672: Flags [P.], seq 42:1122, ack 22, win 227, options [nop,nop,TS val 1468985304 ecr 36136290], length 1080
+18:36:53.436148 IP 40.123.207.179.50672 > comp3134FirstDroplet.ssh: Flags [P.], seq 22:462, ack 1122, win 251, options [nop,nop,TS val 36136517 ecr 1468985304], length 440
+18:36:53.476442 IP comp3134FirstDroplet.ssh > 40.123.207.179.50672: Flags [.], ack 462, win 235, options [nop,nop,TS val 1468985568 ecr 36136517], length 0
+18:36:53.702141 IP 40.123.207.179.50672 > comp3134FirstDroplet.ssh: Flags [P.], seq 462:510, ack 1122, win 251, options [nop,nop,TS val 36136783 ecr 1468985568], length 48
+18:36:53.702195 IP comp3134FirstDroplet.ssh > 40.123.207.179.50672: Flags [.], ack 510, win 235, options [nop,nop,TS val 1468985794 ecr 36136783], length 0
+18:36:53.711499 IP comp3134FirstDroplet.ssh > 40.123.207.179.50672: Flags [P.], seq 1122:1402, ack 510, win 235, options [nop,nop,TS val 1468985803 ecr 36136783], length 280
+18:36:53.950114 IP 40.123.207.179.50672 > comp3134FirstDroplet.ssh: Flags [P.], seq 510:526, ack 1402, win 268, options [nop,nop,TS val 36137024 ecr 1468985803], length 16
+18:36:53.992389 IP comp3134FirstDroplet.ssh > 40.123.207.179.50672: Flags [.], ack 526, win 235, options [nop,nop,TS val 1468986084 ecr 36137024], length 0
+18:36:54.215123 IP 40.123.207.179.50672 > comp3134FirstDroplet.ssh: Flags [P.], seq 526:578, ack 1402, win 268, options [nop,nop,TS val 36137296 ecr 1468986084], length 52
+18:36:54.215172 IP comp3134FirstDroplet.ssh > 40.123.207.179.50672: Flags [.], ack 578, win 235, options [nop,nop,TS val 1468986307 ecr 36137296], length 0
+18:36:54.215305 IP comp3134FirstDroplet.ssh > 40.123.207.179.50672: Flags [P.], seq 1402:1454, ack 578, win 235, options [nop,nop,TS val 1468986307 ecr 36137296], length 52
+18:36:54.447237 IP 40.123.207.179.50672 > comp3134FirstDroplet.ssh: Flags [P.], seq 578:678, ack 1454, win 268, options [nop,nop,TS val 36137526 ecr 1468986307], length 100
+18:36:54.488441 IP comp3134FirstDroplet.ssh > 40.123.207.179.50672: Flags [.], ack 678, win 235, options [nop,nop,TS val 1468986580 ecr 36137526], length 0
+18:36:55.760040 IP 195.191.88.99.56020 > comp3134FirstDroplet.ssh: Flags [S], seq 2842485191, win 29200, options [mss 1380,sackOK,TS val 524972160 ecr 0,nop,wscale 7], length 0
+18:36:55.760110 IP comp3134FirstDroplet > 195.191.88.99: ICMP comp3134FirstDroplet tcp port ssh unreachable, length 68
+18:36:55.801604 IP 106.54.18.228.41914 > comp3134FirstDroplet.ssh: Flags [S], seq 2535466182, win 29200, options [mss 1424,sackOK,TS val 3170694705 ecr 0,nop,wscale 7], length 0
+18:36:55.801679 IP comp3134FirstDroplet.ssh > 106.54.18.228.41914: Flags [S.], seq 51594749, ack 2535466183, win 28960, options [mss 1460,sackOK,TS val 3176196163 ecr 3170694705,nop,wscale 7], length 0
+18:36:56.530040 IP 198.96.85.21.50272 > comp3134FirstDroplet.ssh: Flags [P.], seq 1:37, ack 188, win 508, length 36
+18:36:56.530382 IP comp3134FirstDroplet.ssh > 198.96.85.21.50272: Flags [P.], seq 188:224, ack 37, win 313, length 36
+18:36:56.581110 IP 198.96.85.21.50272 > comp3134FirstDroplet.ssh: Flags [.], ack 224, win 508, length 0
+18:36:56.639844 IP 198.96.85.21.50272 > comp3134FirstDroplet.ssh: Flags [P.], seq 37:73, ack 224, win 508, length 36
+18:36:56.640135 IP comp3134FirstDroplet.ssh > 198.96.85.21.50272: Flags [P.], seq 224:260, ack 73, win 313, length 36
+18:36:56.655487 IP comp3134FirstDroplet.ssh > 40.123.207.179.50672: Flags [P.], seq 1454:1522, ack 678, win 235, options [nop,nop,TS val 1468988747 ecr 36137526], length 68
+18:36:56.686811 IP 198.96.85.21.50272 > comp3134FirstDroplet.ssh: Flags [.], ack 260, win 508, length 0
+18:36:56.803982 IP 106.54.18.228.41914 > comp3134FirstDroplet.ssh: Flags [S], seq 2535466182, win 29200, options [mss 1424,sackOK,TS val 3170695708 ecr 0,nop,wscale 7], length 0
+18:36:56.804057 IP comp3134FirstDroplet.ssh > 106.54.18.228.41914: Flags [S.], seq 51594749, ack 2535466183, win 28960, options [mss 1460,sackOK,TS val 3176197165 ecr 3170694705,nop,wscale 7], length 0
+18:36:56.886525 IP 40.123.207.179.50672 > comp3134FirstDroplet.ssh: Flags [P.], seq 678:730, ack 1522, win 268, options [nop,nop,TS val 36139966 ecr 1468988747], length 52
+18:36:56.886584 IP comp3134FirstDroplet > 40.123.207.179: ICMP comp3134FirstDroplet tcp port ssh unreachable, length 112
+18:36:56.886605 IP 40.123.207.179.50672 > comp3134FirstDroplet.ssh: Flags [F.], seq 730, ack 1522, win 268, options [nop,nop,TS val 36139966 ecr 1468988747], length 0
+18:36:56.886613 IP comp3134FirstDroplet > 40.123.207.179: ICMP comp3134FirstDroplet tcp port ssh unreachable, length 60
+18:36:56.895093 IP no-reverse-dns-configured.com.49738 > comp3134FirstDroplet.30277: Flags [S], seq 570751685, win 1024, length 0
+18:36:57.040815 IP 106.54.18.228.41914 > comp3134FirstDroplet.ssh: Flags [.], ack 1, win 229, options [nop,nop,TS val 3170695944 ecr 3176197165], length 0
+18:36:57.052725 IP comp3134FirstDroplet.ssh > 106.54.18.228.41914: Flags [P.], seq 1:42, ack 1, win 227, options [nop,nop,TS val 3176197414 ecr 3170695944], length 41
+18:36:57.157289 IP 185.176.27.42.56323 > comp3134FirstDroplet.60500: Flags [S], seq 3281814259, win 1024, length 0
+18:36:57.161551 IP 198.96.85.21.50272 > comp3134FirstDroplet.ssh: Flags [P.], seq 73:109, ack 260, win 508, length 36
+18:36:57.161789 IP comp3134FirstDroplet.ssh > 198.96.85.21.50272: Flags [P.], seq 260:296, ack 109, win 313, length 36
+18:36:57.212495 IP comp3134FirstDroplet.ssh > 40.123.207.179.50672: Flags [P.], seq 1454:1522, ack 678, win 235, options [nop,nop,TS val 1468989304 ecr 36137526], length 68
+18:36:57.218627 IP 198.96.85.21.50272 > comp3134FirstDroplet.ssh: Flags [.], ack 296, win 508, length 0
+18:36:57.289406 IP 106.54.18.228.41914 > comp3134FirstDroplet.ssh: Flags [.], ack 42, win 229, options [nop,nop,TS val 3170696193 ecr 3176197414], length 0
+18:36:57.290931 IP 106.54.18.228.41914 > comp3134FirstDroplet.ssh: Flags [P.], seq 1:22, ack 42, win 229, options [nop,nop,TS val 3170696195 ecr 3176197414], length 21
+18:36:57.290974 IP comp3134FirstDroplet.ssh > 106.54.18.228.41914: Flags [.], ack 22, win 227, options [nop,nop,TS val 3176197652 ecr 3170696195], length 0
+18:36:57.292526 IP comp3134FirstDroplet.ssh > 106.54.18.228.41914: Flags [P.], seq 42:1122, ack 22, win 227, options [nop,nop,TS val 3176197654 ecr 3170696195], length 1080
+18:36:57.372676 IP 40.123.207.179.50672 > comp3134FirstDroplet.ssh: Flags [F.], seq 730, ack 1522, win 268, options [nop,nop,TS val 36140451 ecr 1468988747], length 0
+18:36:57.372735 IP comp3134FirstDroplet > 40.123.207.179: ICMP comp3134FirstDroplet tcp port ssh unreachable, length 60
+18:36:57.437115 IP 40.123.207.179.50672 > comp3134FirstDroplet.ssh: Flags [.], ack 1522, win 268, options [nop,nop,TS val 36140518 ecr 1468989304,nop,nop,sack 1 {1454:1522}], length 0
+18:36:57.437201 IP comp3134FirstDroplet > 40.123.207.179: ICMP comp3134FirstDroplet tcp port ssh unreachable, length 72
+18:36:57.529970 IP 106.54.18.228.41914 > comp3134FirstDroplet.ssh: Flags [P.], seq 22:462, ack 1122, win 245, options [nop,nop,TS val 3170696434 ecr 3176197654], length 440
+18:36:57.572403 IP comp3134FirstDroplet.ssh > 106.54.18.228.41914: Flags [.], ack 462, win 235, options [nop,nop,TS val 3176197933 ecr 3170696434], length 0
+18:36:57.788407 IP comp3134FirstDroplet.ssh > 40.123.207.179.50672: Flags [P.], seq 1454:1522, ack 678, win 235, options [nop,nop,TS val 1468989880 ecr 36137526], length 68
+18:36:57.809089 IP 106.54.18.228.41914 > comp3134FirstDroplet.ssh: Flags [P.], seq 462:510, ack 1122, win 245, options [nop,nop,TS val 3170696713 ecr 3176197933], length 48
+18:36:57.809136 IP comp3134FirstDroplet.ssh > 106.54.18.228.41914: Flags [.], ack 510, win 235, options [nop,nop,TS val 3176198170 ecr 3170696713], length 0
+18:36:57.816733 IP comp3134FirstDroplet.ssh > 106.54.18.228.41914: Flags [P.], seq 1122:1402, ack 510, win 235, options [nop,nop,TS val 3176198178 ecr 3170696713], length 280
+18:36:58.012752 IP 40.123.207.179.50672 > comp3134FirstDroplet.ssh: Flags [.], ack 1522, win 268, options [nop,nop,TS val 36141093 ecr 1468989880,nop,nop,sack 1 {1454:1522}], length 0
+18:36:58.012825 IP comp3134FirstDroplet > 40.123.207.179: ICMP comp3134FirstDroplet tcp port ssh unreachable, length 72
+18:36:58.055849 IP 106.54.18.228.41914 > comp3134FirstDroplet.ssh: Flags [P.], seq 510:526, ack 1402, win 262, options [nop,nop,TS val 3170696959 ecr 3176198178], length 16
+18:36:58.096404 IP comp3134FirstDroplet.ssh > 106.54.18.228.41914: Flags [.], ack 526, win 235, options [nop,nop,TS val 3176198457 ecr 3170696959], length 0
+18:36:58.908422 IP comp3134FirstDroplet.ssh > 40.123.207.179.50672: Flags [P.], seq 1454:1522, ack 678, win 235, options [nop,nop,TS val 1468991000 ecr 36137526], length 68
+18:36:58.915010 IP 40.123.207.179.50672 > comp3134FirstDroplet.ssh: Flags [FP.], seq 678:730, ack 1522, win 268, options [nop,nop,TS val 36141996 ecr 1468989880], length 52
+18:36:58.915077 IP comp3134FirstDroplet > 40.123.207.179: ICMP comp3134FirstDroplet tcp port ssh unreachable, length 112
+18:36:59.131357 IP 40.123.207.179.50672 > comp3134FirstDroplet.ssh: Flags [.], ack 1522, win 268, options [nop,nop,TS val 36142212 ecr 1468991000,nop,nop,sack 1 {1454:1522}], length 0
+18:36:59.131427 IP comp3134FirstDroplet > 40.123.207.179: ICMP comp3134FirstDroplet tcp port ssh unreachable, length 72
+18:36:59.887931 IP 106.54.18.228.41914 > comp3134FirstDroplet.ssh: Flags [P.], seq 526:578, ack 1402, win 262, options [nop,nop,TS val 3170698792 ecr 3176198178], length 52
+18:36:59.888007 IP comp3134FirstDroplet.ssh > 106.54.18.228.41914: Flags [.], ack 578, win 235, options [nop,nop,TS val 3176200249 ecr 3170698792], length 0
+18:36:59.888192 IP comp3134FirstDroplet.ssh > 106.54.18.228.41914: Flags [P.], seq 1402:1454, ack 578, win 235, options [nop,nop,TS val 3176200249 ecr 3170698792], length 52
+18:36:59.941170 IP 40.123.207.179.50672 > comp3134FirstDroplet.ssh: Flags [FP.], seq 678:730, ack 1522, win 268, options [nop,nop,TS val 36143022 ecr 1468991000], length 52
+18:36:59.941251 IP comp3134FirstDroplet > 40.123.207.179: ICMP comp3134FirstDroplet tcp port ssh unreachable, length 112
+18:37:00.125417 IP 106.54.18.228.41914 > comp3134FirstDroplet.ssh: Flags [P.], seq 578:678, ack 1454, win 262, options [nop,nop,TS val 3170699029 ecr 3176200249], length 100
+18:37:00.133128 IP 101.95.111.142.56324 > comp3134FirstDroplet.ssh: Flags [S], seq 4262156784, win 14600, options [mss 1460,sackOK,TS val 3291095538 ecr 0,nop,wscale 7], length 0
+18:37:00.133189 IP comp3134FirstDroplet.ssh > 101.95.111.142.56324: Flags [S.], seq 1692052828, ack 4262156785, win 28960, options [mss 1460,sackOK,TS val 883754663 ecr 3291095538,nop,wscale 7], length 0
+18:37:00.168416 IP comp3134FirstDroplet.ssh > 106.54.18.228.41914: Flags [.], ack 678, win 235, options [nop,nop,TS val 3176200529 ecr 3170699029], length 0
+18:37:00.375765 IP 101.95.111.142.56324 > comp3134FirstDroplet.ssh: Flags [.], ack 1, win 115, options [nop,nop,TS val 3291095781 ecr 883754663], length 0
+18:37:00.385264 IP comp3134FirstDroplet.ssh > 101.95.111.142.56324: Flags [P.], seq 1:42, ack 1, win 227, options [nop,nop,TS val 883754915 ecr 3291095781], length 41
+18:37:00.627865 IP 101.95.111.142.56324 > comp3134FirstDroplet.ssh: Flags [P.], seq 1:22, ack 42, win 115, options [nop,nop,TS val 3291096033 ecr 883754915], length 21
+18:37:00.627916 IP comp3134FirstDroplet.ssh > 101.95.111.142.56324: Flags [.], ack 22, win 227, options [nop,nop,TS val 883755158 ecr 3291096033], length 0
+18:37:00.627951 IP 101.95.111.142.56324 > comp3134FirstDroplet.ssh: Flags [.], ack 42, win 115, options [nop,nop,TS val 3291096033 ecr 883754915], length 0
+18:37:00.627963 IP comp3134FirstDroplet.ssh > 101.95.111.142.56324: Flags [.], ack 22, win 227, options [nop,nop,TS val 883755158 ecr 3291096033], length 0
+18:37:00.629530 IP comp3134FirstDroplet.ssh > 101.95.111.142.56324: Flags [P.], seq 42:1122, ack 22, win 227, options [nop,nop,TS val 883755160 ecr 3291096033], length 1080
+18:37:00.872828 IP 101.95.111.142.56324 > comp3134FirstDroplet.ssh: Flags [P.], seq 22:462, ack 1122, win 131, options [nop,nop,TS val 3291096278 ecr 883755160], length 440
+18:37:00.916410 IP comp3134FirstDroplet.ssh > 101.95.111.142.56324: Flags [.], ack 462, win 235, options [nop,nop,TS val 883755446 ecr 3291096278], length 0
+18:37:01.159781 IP 101.95.111.142.56324 > comp3134FirstDroplet.ssh: Flags [P.], seq 462:510, ack 1122, win 131, options [nop,nop,TS val 3291096565 ecr 883755446], length 48
+18:37:01.159837 IP comp3134FirstDroplet.ssh > 101.95.111.142.56324: Flags [.], ack 510, win 235, options [nop,nop,TS val 883755690 ecr 3291096565], length 0
+18:37:01.171705 IP comp3134FirstDroplet.ssh > 101.95.111.142.56324: Flags [P.], seq 1122:1402, ack 510, win 235, options [nop,nop,TS val 883755702 ecr 3291096565], length 280
+18:37:01.308402 IP comp3134FirstDroplet.ssh > 40.123.207.179.50672: Flags [P.], seq 1454:1522, ack 678, win 235, options [nop,nop,TS val 1468993400 ecr 36137526], length 68
+18:37:01.417766 IP 101.95.111.142.56324 > comp3134FirstDroplet.ssh: Flags [P.], seq 510:526, ack 1402, win 148, options [nop,nop,TS val 3291096823 ecr 883755702], length 16
+18:37:01.460436 IP comp3134FirstDroplet.ssh > 101.95.111.142.56324: Flags [.], ack 526, win 235, options [nop,nop,TS val 883755990 ecr 3291096823], length 0
+18:37:01.531393 IP 40.123.207.179.50672 > comp3134FirstDroplet.ssh: Flags [.], ack 1522, win 268, options [nop,nop,TS val 36144612 ecr 1468993400,nop,nop,sack 1 {1454:1522}], length 0
+18:37:01.531463 IP comp3134FirstDroplet > 40.123.207.179: ICMP comp3134FirstDroplet tcp port ssh unreachable, length 72
+18:37:01.662709 IP comp3134FirstDroplet.ssh > 129.204.67.235.43788: Flags [F.], seq 802688393, ack 4201056233, win 235, options [nop,nop,TS val 3417745610 ecr 4292272915], length 0
+18:37:01.702774 IP 101.95.111.142.56324 > comp3134FirstDroplet.ssh: Flags [P.], seq 526:578, ack 1402, win 148, options [nop,nop,TS val 3291097108 ecr 883755990], length 52
+18:37:01.702839 IP comp3134FirstDroplet.ssh > 101.95.111.142.56324: Flags [.], ack 578, win 235, options [nop,nop,TS val 883756233 ecr 3291097108], length 0
+18:37:01.703001 IP comp3134FirstDroplet.ssh > 101.95.111.142.56324: Flags [P.], seq 1402:1454, ack 578, win 235, options [nop,nop,TS val 883756233 ecr 3291097108], length 52
+18:37:01.907066 IP 129.204.67.235.43788 > comp3134FirstDroplet.ssh: Flags [.], ack 1, win 262, options [nop,nop,TS val 4292302483 ecr 3417745610], length 0
+18:37:01.907134 IP comp3134FirstDroplet > 129.204.67.235: ICMP comp3134FirstDroplet tcp port ssh unreachable, length 60
+18:37:01.945812 IP 101.95.111.142.56324 > comp3134FirstDroplet.ssh: Flags [P.], seq 578:662, ack 1454, win 148, options [nop,nop,TS val 3291097351 ecr 883756233], length 84
+18:37:01.988401 IP comp3134FirstDroplet.ssh > 101.95.111.142.56324: Flags [.], ack 662, win 235, options [nop,nop,TS val 883756518 ecr 3291097351], length 0
+18:37:01.988677 IP 40.123.207.179.50672 > comp3134FirstDroplet.ssh: Flags [FP.], seq 678:730, ack 1522, win 268, options [nop,nop,TS val 36145069 ecr 1468993400], length 52
+18:37:01.988723 IP comp3134FirstDroplet > 40.123.207.179: ICMP comp3134FirstDroplet tcp port ssh unreachable, length 112
+18:37:02.156467 IP comp3134FirstDroplet.ssh > 106.54.18.228.41914: Flags [P.], seq 1454:1522, ack 678, win 235, options [nop,nop,TS val 3176202517 ecr 3170699029], length 68
+18:37:02.394635 IP 106.54.18.228.41914 > comp3134FirstDroplet.ssh: Flags [P.], seq 678:730, ack 1522, win 262, options [nop,nop,TS val 3170701298 ecr 3176202517], length 52
+18:37:02.394698 IP comp3134FirstDroplet > 106.54.18.228: ICMP comp3134FirstDroplet tcp port ssh unreachable, length 112
+18:37:02.394729 IP 106.54.18.228.41914 > comp3134FirstDroplet.ssh: Flags [F.], seq 730, ack 1522, win 262, options [nop,nop,TS val 3170701298 ecr 3176202517], length 0
+18:37:02.394740 IP comp3134FirstDroplet > 106.54.18.228: ICMP comp3134FirstDroplet tcp port ssh unreachable, length 60
+18:37:02.748947 IP comp3134FirstDroplet.ssh > 106.54.18.228.41914: Flags [P.], seq 1454:1522, ack 678, win 235, options [nop,nop,TS val 3176203110 ecr 3170699029], length 68
+18:37:02.985760 IP 106.54.18.228.41914 > comp3134FirstDroplet.ssh: Flags [.], ack 1522, win 262, options [nop,nop,TS val 3170701889 ecr 3176203110,nop,nop,sack 1 {1454:1522}], length 0
+18:37:02.985830 IP comp3134FirstDroplet > 106.54.18.228: ICMP comp3134FirstDroplet tcp port ssh unreachable, length 72
+18:37:03.324346 IP comp3134FirstDroplet.ssh > 106.54.18.228.41914: Flags [P.], seq 1454:1522, ack 678, win 235, options [nop,nop,TS val 3176203685 ecr 3170699029], length 68
+18:37:03.561373 IP 106.54.18.228.41914 > comp3134FirstDroplet.ssh: Flags [.], ack 1522, win 262, options [nop,nop,TS val 3170702465 ecr 3176203685,nop,nop,sack 1 {1454:1522}], length 0
+18:37:03.561434 IP comp3134FirstDroplet > 106.54.18.228: ICMP comp3134FirstDroplet tcp port ssh unreachable, length 72
+18:37:03.783142 IP comp3134FirstDroplet.ssh > 101.95.111.142.56324: Flags [P.], seq 1454:1522, ack 662, win 235, options [nop,nop,TS val 883758313 ecr 3291097351], length 68
+18:37:04.024751 IP 101.95.111.142.56324 > comp3134FirstDroplet.ssh: Flags [P.], seq 662:714, ack 1522, win 148, options [nop,nop,TS val 3291099430 ecr 883758313], length 52
+18:37:04.024814 IP comp3134FirstDroplet > 101.95.111.142: ICMP comp3134FirstDroplet tcp port ssh unreachable, length 112
+18:37:04.024836 IP 101.95.111.142.56324 > comp3134FirstDroplet.ssh: Flags [F.], seq 714, ack 1522, win 148, options [nop,nop,TS val 3291099430 ecr 883758313], length 0
+18:37:04.024850 IP comp3134FirstDroplet > 101.95.111.142: ICMP comp3134FirstDroplet tcp port ssh unreachable, length 60
+18:37:04.380410 IP comp3134FirstDroplet.ssh > 101.95.111.142.56324: Flags [P.], seq 1454:1522, ack 662, win 235, options [nop,nop,TS val 883758910 ecr 3291097351], length 68
+18:37:04.476396 IP comp3134FirstDroplet.ssh > 106.54.18.228.41914: Flags [P.], seq 1454:1522, ack 678, win 235, options [nop,nop,TS val 3176204837 ecr 3170699029], length 68
+18:37:04.622666 IP 101.95.111.142.56324 > comp3134FirstDroplet.ssh: Flags [.], ack 1522, win 148, options [nop,nop,TS val 3291100028 ecr 883758910,nop,nop,sack 1 {1454:1522}], length 0
+18:37:04.622728 IP comp3134FirstDroplet > 101.95.111.142: ICMP comp3134FirstDroplet tcp port ssh unreachable, length 72
+18:37:04.633662 IP 106.13.121.175.47367 > comp3134FirstDroplet.ssh: Flags [S], seq 1519546121, win 29200, options [mss 1460,sackOK,TS val 338425205 ecr 0,nop,wscale 7], length 0
+18:37:04.633731 IP comp3134FirstDroplet > 106.13.121.175: ICMP comp3134FirstDroplet tcp port ssh unreachable, length 68
+18:37:04.713038 IP 106.54.18.228.41914 > comp3134FirstDroplet.ssh: Flags [.], ack 1522, win 262, options [nop,nop,TS val 3170703617 ecr 3176204837,nop,nop,sack 1 {1454:1522}], length 0
+18:37:04.713099 IP comp3134FirstDroplet > 106.54.18.228: ICMP comp3134FirstDroplet tcp port ssh unreachable, length 72
+18:37:04.773590 IP 101.95.111.142.56324 > comp3134FirstDroplet.ssh: Flags [P.], seq 662:714, ack 1522, win 148, options [nop,nop,TS val 3291100179 ecr 883758910], length 52
+18:37:04.773661 IP comp3134FirstDroplet > 101.95.111.142: ICMP comp3134FirstDroplet tcp port ssh unreachable, length 112
+18:37:04.988414 IP comp3134FirstDroplet.ssh > 101.95.111.142.56324: Flags [P.], seq 1454:1522, ack 662, win 235, options [nop,nop,TS val 883759518 ecr 3291097351], length 68
+18:37:05.230769 IP 101.95.111.142.56324 > comp3134FirstDroplet.ssh: Flags [.], ack 1522, win 148, options [nop,nop,TS val 3291100636 ecr 883759518,nop,nop,sack 1 {1454:1522}], length 0
+18:37:05.230837 IP comp3134FirstDroplet > 101.95.111.142: ICMP comp3134FirstDroplet tcp port ssh unreachable, length 72
+18:37:05.916415 IP comp3134FirstDroplet.ssh > 40.123.207.179.50672: Flags [P.], seq 1454:1522, ack 678, win 235, options [nop,nop,TS val 1468998008 ecr 36137526], length 68
+18:37:06.073273 IP 40.123.207.179.50672 > comp3134FirstDroplet.ssh: Flags [FP.], seq 678:730, ack 1522, win 268, options [nop,nop,TS val 36149154 ecr 1468993400], length 52
+18:37:06.073341 IP comp3134FirstDroplet > 40.123.207.179: ICMP comp3134FirstDroplet tcp port ssh unreachable, length 112
+18:37:06.141709 IP 40.123.207.179.50672 > comp3134FirstDroplet.ssh: Flags [.], ack 1522, win 268, options [nop,nop,TS val 36149222 ecr 1468998008,nop,nop,sack 1 {1454:1522}], length 0
+18:37:06.141779 IP comp3134FirstDroplet > 40.123.207.179: ICMP comp3134FirstDroplet tcp port ssh unreachable, length 72
+18:37:06.172415 IP comp3134FirstDroplet.ssh > 101.95.111.142.56324: Flags [P.], seq 1454:1522, ack 662, win 235, options [nop,nop,TS val 883760702 ecr 3291097351], length 68
+18:37:06.271607 IP 101.95.111.142.56324 > comp3134FirstDroplet.ssh: Flags [P.], seq 662:714, ack 1522, win 148, options [nop,nop,TS val 3291101677 ecr 883759518], length 52
+18:37:06.271673 IP comp3134FirstDroplet > 101.95.111.142: ICMP comp3134FirstDroplet tcp port ssh unreachable, length 112
+18:37:06.415644 IP 101.95.111.142.56324 > comp3134FirstDroplet.ssh: Flags [.], ack 1522, win 148, options [nop,nop,TS val 3291101821 ecr 883760702,nop,nop,sack 1 {1454:1522}], length 0
+18:37:06.415711 IP comp3134FirstDroplet > 101.95.111.142: ICMP comp3134FirstDroplet tcp port ssh unreachable, length 72
+18:37:06.439944 IP 106.54.18.228.41914 > comp3134FirstDroplet.ssh: Flags [F.], seq 730, ack 1522, win 262, options [nop,nop,TS val 3170705344 ecr 3176204837], length 0
+18:37:06.440019 IP comp3134FirstDroplet > 106.54.18.228: ICMP comp3134FirstDroplet tcp port ssh unreachable, length 60
+18:37:06.940419 IP comp3134FirstDroplet.ssh > 106.54.18.228.41914: Flags [P.], seq 1454:1522, ack 678, win 235, options [nop,nop,TS val 3176207301 ecr 3170699029], length 68
+18:37:07.177069 IP 106.54.18.228.41914 > comp3134FirstDroplet.ssh: Flags [.], ack 1522, win 262, options [nop,nop,TS val 3170706081 ecr 3176207301,nop,nop,sack 1 {1454:1522}], length 0
+18:37:07.177136 IP comp3134FirstDroplet > 106.54.18.228: ICMP comp3134FirstDroplet tcp port ssh unreachable, length 72
+18:37:08.220474 IP comp3134FirstDroplet.ssh > 218.92.0.211.17304: Flags [S.], seq 1221355600, ack 2721775393, win 28960, options [mss 1460,sackOK,TS val 1589586826 ecr 315393741,nop,wscale 7], length 0
+18:37:08.732423 IP comp3134FirstDroplet.ssh > 101.95.111.142.56324: Flags [P.], seq 1454:1522, ack 662, win 235, options [nop,nop,TS val 883763262 ecr 3291097351], length 68
+18:37:08.974442 IP 101.95.111.142.56324 > comp3134FirstDroplet.ssh: Flags [.], ack 1522, win 148, options [nop,nop,TS val 3291104380 ecr 883763262,nop,nop,sack 1 {1454:1522}], length 0
+18:37:08.974512 IP comp3134FirstDroplet > 101.95.111.142: ICMP comp3134FirstDroplet tcp port ssh unreachable, length 72
+18:37:09.267597 IP 101.95.111.142.56324 > comp3134FirstDroplet.ssh: Flags [P.], seq 662:714, ack 1522, win 148, options [nop,nop,TS val 3291104673 ecr 883763262], length 52
+18:37:09.267664 IP comp3134FirstDroplet > 101.95.111.142: ICMP comp3134FirstDroplet tcp port ssh unreachable, length 112
+18:37:11.548403 IP comp3134FirstDroplet.ssh > 106.54.18.228.41914: Flags [P.], seq 1454:1522, ack 678, win 235, options [nop,nop,TS val 3176211909 ecr 3170699029], length 68
+18:37:11.785174 IP 106.54.18.228.41914 > comp3134FirstDroplet.ssh: Flags [.], ack 1522, win 262, options [nop,nop,TS val 3170710689 ecr 3176211909,nop,nop,sack 1 {1454:1522}], length 0
+18:37:11.785246 IP comp3134FirstDroplet > 106.54.18.228: ICMP comp3134FirstDroplet tcp port ssh unreachable, length 72
+18:37:13.596395 IP comp3134FirstDroplet.ssh > 101.95.111.142.56324: Flags [P.], seq 1454:1522, ack 662, win 235, options [nop,nop,TS val 883768126 ecr 3291097351], length 68
+18:37:13.838528 IP 101.95.111.142.56324 > comp3134FirstDroplet.ssh: Flags [.], ack 1522, win 148, options [nop,nop,TS val 3291109244 ecr 883768126,nop,nop,sack 1 {1454:1522}], length 0
+18:37:13.838594 IP comp3134FirstDroplet > 101.95.111.142: ICMP comp3134FirstDroplet tcp port ssh unreachable, length 72
+18:37:14.239267 IP 40.123.207.179.50672 > comp3134FirstDroplet.ssh: Flags [FP.], seq 678:730, ack 1522, win 268, options [nop,nop,TS val 36157316 ecr 1468998008], length 52
+18:37:14.239324 IP comp3134FirstDroplet > 40.123.207.179: ICMP comp3134FirstDroplet tcp port ssh unreachable, length 112

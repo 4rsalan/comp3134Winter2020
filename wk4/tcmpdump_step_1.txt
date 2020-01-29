@@ -1,0 +1,189 @@
+h 164
+18:31:52.377536 IP comp3134FirstDroplet.ssh > 198.96.85.21.50272: Flags [P.], seq 888988:889152, ack 289, win 313, length 164
+18:31:52.378253 IP 198.96.85.21.50272 > comp3134FirstDroplet.ssh: Flags [.], ack 882592, win 136, length 0
+18:31:52.378286 IP comp3134FirstDroplet.ssh > 198.96.85.21.50272: Flags [P.], seq 889152:889316, ack 289, win 313, length 164
+18:31:52.378303 IP 198.96.85.21.50272 > comp3134FirstDroplet.ssh: Flags [.], ack 884232, win 130, length 0
+18:31:52.378313 IP 198.96.85.21.50272 > comp3134FirstDroplet.ssh: Flags [.], ack 885380, win 126, length 0
+18:31:52.378495 IP comp3134FirstDroplet.ssh > 198.96.85.21.50272: Flags [P.], seq 889316:889808, ack 289, win 313, length 492
+18:31:52.378636 IP comp3134FirstDroplet.ssh > 198.96.85.21.50272: Flags [P.], seq 889808:889972, ack 289, win 313, length 164
+18:31:52.378736 IP comp3134FirstDroplet.ssh > 198.96.85.21.50272: Flags [P.], seq 889972:890136, ack 289, win 313, length 164
+18:31:52.378834 IP comp3134FirstDroplet.ssh > 198.96.85.21.50272: Flags [P.], seq 890136:890300, ack 289, win 313, length 164
+18:31:52.378861 IP 198.96.85.21.50272 > comp3134FirstDroplet.ssh: Flags [.], ack 886528, win 121, length 0
+18:31:52.378967 IP comp3134FirstDroplet.ssh > 198.96.85.21.50272: Flags [P.], seq 890300:890576, ack 289, win 313, length 276
+18:31:52.379045 IP comp3134FirstDroplet.ssh > 198.96.85.21.50272: Flags [P.], seq 890576:890740, ack 289, win 313, length 164
+18:31:52.379119 IP comp3134FirstDroplet.ssh > 198.96.85.21.50272: Flags [P.], seq 890740:890904, ack 289, win 313, length 164
+18:31:52.379195 IP comp3134FirstDroplet.ssh > 198.96.85.21.50272: Flags [P.], seq 890904:891068, ack 289, win 313, length 164
+18:31:52.379269 IP comp3134FirstDroplet.ssh > 198.96.85.21.50272: Flags [P.], seq 891068:891232, ack 289, win 313, length 164
+18:31:52.379343 IP comp3134FirstDroplet.ssh > 198.96.85.21.50272: Flags [P.], seq 891232:891396, ack 289, win 313, length 164
+18:31:52.379416 IP comp3134FirstDroplet.ssh > 198.96.85.21.50272: Flags [P.], seq 891396:891560, ack 289, win 313, length 164
+18:31:52.379492 IP comp3134FirstDroplet.ssh > 198.96.85.21.50272: Flags [P.], seq 891560:891724, ack 289, win 313, length 164
+18:31:52.379569 IP comp3134FirstDroplet.ssh > 198.96.85.21.50272: Flags [P.], seq 891724:891888, ack 289, win 313, length 164
+18:31:52.379643 IP comp3134FirstDroplet.ssh > 198.96.85.21.50272: Flags [P.], seq 891888:892052, ack 289, win 313, length 164
+18:31:52.379717 IP comp3134FirstDroplet.ssh > 198.96.85.21.50272: Flags [P.], seq 892052:892216, ack 289, win 313, length 164
+18:31:52.379792 IP comp3134FirstDroplet.ssh > 198.96.85.21.50272: Flags [P.], seq 892216:892380, ack 289, win 313, length 164
+18:31:52.379867 IP comp3134FirstDroplet.ssh > 198.96.85.21.50272: Flags [P.], seq 892380:892544, ack 289, win 313, length 164
+18:31:52.379941 IP comp3134FirstDroplet.ssh > 198.96.85.21.50272: Flags [P.], seq 892544:892708, ack 289, win 313, length 164
+18:31:52.380015 IP comp3134FirstDroplet.ssh > 198.96.85.21.50272: Flags [P.], seq 892708:892872, ack 289, win 313, length 164
+18:31:52.380090 IP comp3134FirstDroplet.ssh > 198.96.85.21.50272: Flags [P.], seq 892872:893036, ack 289, win 313, length 164
+18:31:52.380165 IP comp3134FirstDroplet.ssh > 198.96.85.21.50272: Flags [P.], seq 893036:893200, ack 289, win 313, length 164
+18:31:52.380240 IP comp3134FirstDroplet.ssh > 198.96.85.21.50272: Flags [P.], seq 893200:893364, ack 289, win 313, length 164
+18:31:52.380348 IP comp3134FirstDroplet.ssh > 198.96.85.21.50272: Flags [P.], seq 893364:893528, ack 289, win 313, length 164
+18:31:52.380484 IP comp3134FirstDroplet.ssh > 198.96.85.21.50272: Flags [P.], seq 893528:893692, ack 289, win 313, length 164
+18:31:52.380610 IP comp3134FirstDroplet.ssh > 198.96.85.21.50272: Flags [P.], seq 893692:893856, ack 289, win 313, length 164
+18:31:52.381563 IP 198.96.85.21.50272 > comp3134FirstDroplet.ssh: Flags [.], ack 888004, win 115, length 0
+18:31:52.381608 IP comp3134FirstDroplet.ssh > 198.96.85.21.50272: Flags [P.], seq 893856:894020, ack 289, win 313, length 164
+18:31:52.381828 IP comp3134FirstDroplet.ssh > 198.96.85.21.50272: Flags [P.], seq 894020:894296, ack 289, win 313, length 276
+18:31:52.381946 IP comp3134FirstDroplet.ssh > 198.96.85.21.50272: Flags [P.], seq 894296:894460, ack 289, win 313, length 164
+18:31:52.382279 IP comp3134FirstDroplet.ssh > 198.96.85.21.50272: Flags [P.], seq 894460:894624, ack 289, win 313, length 164
+18:31:52.382416 IP comp3134FirstDroplet.ssh > 198.96.85.21.50272: Flags [P.], seq 894624:894788, ack 289, win 313, length 164
+18:31:52.382525 IP comp3134FirstDroplet.ssh > 198.96.85.21.50272: Flags [P.], seq 894788:894952, ack 289, win 313, length 164
+18:31:52.382633 IP comp3134FirstDroplet.ssh > 198.96.85.21.50272: Flags [P.], seq 894952:895116, ack 289, win 313, length 164
+18:31:52.382720 IP comp3134FirstDroplet.ssh > 198.96.85.21.50272: Flags [P.], seq 895116:895280, ack 289, win 313, length 164
+18:31:52.382805 IP comp3134FirstDroplet.ssh > 198.96.85.21.50272: Flags [P.], seq 895280:895444, ack 289, win 313, length 164
+18:31:52.384336 IP 198.96.85.21.50272 > comp3134FirstDroplet.ssh: Flags [.], ack 891232, win 103, length 0
+18:31:52.384376 IP comp3134FirstDroplet.ssh > 198.96.85.21.50272: Flags [P.], seq 895444:895608, ack 289, win 313, length 164
+18:31:52.384398 IP 198.96.85.21.50272 > comp3134FirstDroplet.ssh: Flags [.], ack 893200, win 95, length 0
+18:31:52.384575 IP comp3134FirstDroplet.ssh > 198.96.85.21.50272: Flags [P.], seq 895608:895988, ack 289, win 313, length 380
+18:31:52.384688 IP comp3134FirstDroplet.ssh > 198.96.85.21.50272: Flags [P.], seq 895988:896152, ack 289, win 313, length 164
+18:31:52.384794 IP comp3134FirstDroplet.ssh > 198.96.85.21.50272: Flags [P.], seq 896152:896316, ack 289, win 313, length 164
+18:31:52.384897 IP comp3134FirstDroplet.ssh > 198.96.85.21.50272: Flags [P.], seq 896316:896480, ack 289, win 313, length 164
+18:31:52.385000 IP comp3134FirstDroplet.ssh > 198.96.85.21.50272: Flags [P.], seq 896480:896644, ack 289, win 313, length 164
+18:31:52.385101 IP comp3134FirstDroplet.ssh > 198.96.85.21.50272: Flags [P.], seq 896644:896808, ack 289, win 313, length 164
+18:31:52.385204 IP comp3134FirstDroplet.ssh > 198.96.85.21.50272: Flags [P.], seq 896808:896972, ack 289, win 313, length 164
+18:31:52.385330 IP comp3134FirstDroplet.ssh > 198.96.85.21.50272: Flags [P.], seq 896972:897136, ack 289, win 313, length 164
+18:31:52.385434 IP comp3134FirstDroplet.ssh > 198.96.85.21.50272: Flags [P.], seq 897136:897300, ack 289, win 313, length 164
+18:31:52.385538 IP comp3134FirstDroplet.ssh > 198.96.85.21.50272: Flags [P.], seq 897300:897464, ack 289, win 313, length 164
+18:31:52.385643 IP comp3134FirstDroplet.ssh > 198.96.85.21.50272: Flags [P.], seq 897464:897628, ack 289, win 313, length 164
+18:31:52.385744 IP comp3134FirstDroplet.ssh > 198.96.85.21.50272: Flags [P.], seq 897628:897792, ack 289, win 313, length 164
+18:31:52.385856 IP 198.96.85.21.50272 > comp3134FirstDroplet.ssh: Flags [.], ack 893856, win 92, length 0
+18:31:52.385874 IP comp3134FirstDroplet.ssh > 198.96.85.21.50272: Flags [P.], seq 897792:897956, ack 289, win 313, length 164
+18:31:52.386007 IP comp3134FirstDroplet.ssh > 198.96.85.21.50272: Flags [P.], seq 897956:898224, ack 289, win 313, length 268
+18:31:52.386115 IP comp3134FirstDroplet.ssh > 198.96.85.21.50272: Flags [P.], seq 898224:898388, ack 289, win 313, length 164
+18:31:52.386221 IP comp3134FirstDroplet.ssh > 198.96.85.21.50272: Flags [P.], seq 898388:898552, ack 289, win 313, length 164
+18:31:52.386326 IP comp3134FirstDroplet.ssh > 198.96.85.21.50272: Flags [P.], seq 898552:898716, ack 289, win 313, length 164
+18:31:52.386448 IP comp3134FirstDroplet.ssh > 198.96.85.21.50272: Flags [P.], seq 898716:898880, ack 289, win 313, length 164
+18:31:52.386555 IP comp3134FirstDroplet.ssh > 198.96.85.21.50272: Flags [P.], seq 898880:899044, ack 289, win 313, length 164
+18:31:52.386658 IP comp3134FirstDroplet.ssh > 198.96.85.21.50272: Flags [P.], seq 899044:899208, ack 289, win 313, length 164
+18:31:52.386760 IP comp3134FirstDroplet.ssh > 198.96.85.21.50272: Flags [P.], seq 899208:899372, ack 289, win 313, length 164
+18:31:52.386863 IP comp3134FirstDroplet.ssh > 198.96.85.21.50272: Flags [P.], seq 899372:899536, ack 289, win 313, length 164
+18:31:52.386962 IP comp3134FirstDroplet.ssh > 198.96.85.21.50272: Flags [P.], seq 899536:899700, ack 289, win 313, length 164
+18:31:52.387064 IP comp3134FirstDroplet.ssh > 198.96.85.21.50272: Flags [P.], seq 899700:899864, ack 289, win 313, length 164
+18:31:52.387169 IP comp3134FirstDroplet.ssh > 198.96.85.21.50272: Flags [P.], seq 899864:900028, ack 289, win 313, length 164
+18:31:52.387270 IP comp3134FirstDroplet.ssh > 198.96.85.21.50272: Flags [P.], seq 900028:900192, ack 289, win 313, length 164
+18:31:52.387373 IP comp3134FirstDroplet.ssh > 198.96.85.21.50272: Flags [P.], seq 900192:900356, ack 289, win 313, length 164
+18:31:52.387475 IP comp3134FirstDroplet.ssh > 198.96.85.21.50272: Flags [P.], seq 900356:900520, ack 289, win 313, length 164
+18:31:52.387562 IP comp3134FirstDroplet.ssh > 198.96.85.21.50272: Flags [P.], seq 900520:900684, ack 289, win 313, length 164
+18:31:52.387664 IP comp3134FirstDroplet.ssh > 198.96.85.21.50272: Flags [P.], seq 900684:900848, ack 289, win 313, length 164
+18:31:52.387772 IP comp3134FirstDroplet.ssh > 198.96.85.21.50272: Flags [P.], seq 900848:901012, ack 289, win 313, length 164
+18:31:52.387874 IP comp3134FirstDroplet.ssh > 198.96.85.21.50272: Flags [P.], seq 901012:901176, ack 289, win 313, length 164
+18:31:52.389104 IP 198.96.85.21.50272 > comp3134FirstDroplet.ssh: Flags [.], ack 895444, win 86, length 0
+18:31:52.389135 IP comp3134FirstDroplet.ssh > 198.96.85.21.50272: Flags [P.], seq 901176:901340, ack 289, win 313, length 164
+18:31:52.389288 IP comp3134FirstDroplet.ssh > 198.96.85.21.50272: Flags [P.], seq 901340:901608, ack 289, win 313, length 268
+18:31:52.389398 IP comp3134FirstDroplet.ssh > 198.96.85.21.50272: Flags [P.], seq 901608:901772, ack 289, win 313, length 164
+18:31:52.389510 IP comp3134FirstDroplet.ssh > 198.96.85.21.50272: Flags [P.], seq 901772:901936, ack 289, win 313, length 164
+18:31:52.389617 IP comp3134FirstDroplet.ssh > 198.96.85.21.50272: Flags [P.], seq 901936:902100, ack 289, win 313, length 164
+18:31:52.389722 IP comp3134FirstDroplet.ssh > 198.96.85.21.50272: Flags [P.], seq 902100:902264, ack 289, win 313, length 164
+18:31:52.389823 IP comp3134FirstDroplet.ssh > 198.96.85.21.50272: Flags [P.], seq 902264:902428, ack 289, win 313, length 164
+18:31:52.389926 IP comp3134FirstDroplet.ssh > 198.96.85.21.50272: Flags [P.], seq 902428:902592, ack 289, win 313, length 164
+18:31:52.390033 IP comp3134FirstDroplet.ssh > 198.96.85.21.50272: Flags [P.], seq 902592:902756, ack 289, win 313, length 164
+18:31:52.391095 IP 198.96.85.21.50272 > comp3134FirstDroplet.ssh: Flags [.], ack 896644, win 82, length 0
+18:31:52.391124 IP comp3134FirstDroplet.ssh > 198.96.85.21.50272: Flags [P.], seq 902756:902920, ack 289, win 313, length 164
+18:31:52.391273 IP comp3134FirstDroplet.ssh > 198.96.85.21.50272: Flags [P.], seq 902920:903188, ack 289, win 313, length 268
+18:31:52.391382 IP comp3134FirstDroplet.ssh > 198.96.85.21.50272: Flags [P.], seq 903188:903352, ack 289, win 313, length 164
+18:31:52.391485 IP comp3134FirstDroplet.ssh > 198.96.85.21.50272: Flags [P.], seq 903352:903516, ack 289, win 313, length 164
+18:31:52.391640 IP comp3134FirstDroplet.ssh > 198.96.85.21.50272: Flags [P.], seq 903516:903680, ack 289, win 313, length 164
+18:31:52.391746 IP comp3134FirstDroplet.ssh > 198.96.85.21.50272: Flags [P.], seq 903680:903844, ack 289, win 313, length 164
+18:31:52.395326 IP 198.96.85.21.50272 > comp3134FirstDroplet.ssh: Flags [.], ack 902100, win 60, length 0
+18:31:52.395394 IP comp3134FirstDroplet.ssh > 198.96.85.21.50272: Flags [P.], seq 903844:904008, ack 289, win 313, length 164
+18:31:52.395554 IP 198.96.85.21.50272 > comp3134FirstDroplet.ssh: Flags [.], ack 903844, win 53, length 0
+18:31:52.395676 IP comp3134FirstDroplet.ssh > 198.96.85.21.50272: Flags [P.], seq 904008:904388, ack 289, win 313, length 380
+18:31:52.395788 IP comp3134FirstDroplet.ssh > 198.96.85.21.50272: Flags [P.], seq 904388:904552, ack 289, win 313, length 164
+18:31:52.395894 IP comp3134FirstDroplet.ssh > 198.96.85.21.50272: Flags [P.], seq 904552:904716, ack 289, win 313, length 164
+18:31:52.396023 IP comp3134FirstDroplet.ssh > 198.96.85.21.50272: Flags [P.], seq 904716:904880, ack 289, win 313, length 164
+18:31:52.396135 IP comp3134FirstDroplet.ssh > 198.96.85.21.50272: Flags [P.], seq 904880:905044, ack 289, win 313, length 164
+18:31:52.396245 IP comp3134FirstDroplet.ssh > 198.96.85.21.50272: Flags [P.], seq 905044:905208, ack 289, win 313, length 164
+18:31:52.396389 IP comp3134FirstDroplet.ssh > 198.96.85.21.50272: Flags [P.], seq 905208:905372, ack 289, win 313, length 164
+18:31:52.396504 IP comp3134FirstDroplet.ssh > 198.96.85.21.50272: Flags [P.], seq 905372:905536, ack 289, win 313, length 164
+18:31:52.396609 IP comp3134FirstDroplet.ssh > 198.96.85.21.50272: Flags [P.], seq 905536:905700, ack 289, win 313, length 164
+18:31:52.396714 IP comp3134FirstDroplet.ssh > 198.96.85.21.50272: Flags [P.], seq 905700:905864, ack 289, win 313, length 164
+18:31:52.396826 IP comp3134FirstDroplet.ssh > 198.96.85.21.50272: Flags [P.], seq 905864:906028, ack 289, win 313, length 164
+18:31:52.396931 IP comp3134FirstDroplet.ssh > 198.96.85.21.50272: Flags [P.], seq 906028:906192, ack 289, win 313, length 164
+18:31:52.397060 IP comp3134FirstDroplet.ssh > 198.96.85.21.50272: Flags [P.], seq 906192:906356, ack 289, win 313, length 164
+18:31:52.397168 IP comp3134FirstDroplet.ssh > 198.96.85.21.50272: Flags [P.], seq 906356:906520, ack 289, win 313, length 164
+18:31:52.397272 IP comp3134FirstDroplet.ssh > 198.96.85.21.50272: Flags [P.], seq 906520:906684, ack 289, win 313, length 164
+18:31:52.397374 IP comp3134FirstDroplet.ssh > 198.96.85.21.50272: Flags [P.], seq 906684:906848, ack 289, win 313, length 164
+18:31:52.397480 IP comp3134FirstDroplet.ssh > 198.96.85.21.50272: Flags [P.], seq 906848:907012, ack 289, win 313, length 164
+18:31:52.397590 IP comp3134FirstDroplet.ssh > 198.96.85.21.50272: Flags [P.], seq 907012:907176, ack 289, win 313, length 164
+18:31:52.397693 IP comp3134FirstDroplet.ssh > 198.96.85.21.50272: Flags [P.], seq 907176:907340, ack 289, win 313, length 164
+18:31:52.397795 IP comp3134FirstDroplet.ssh > 198.96.85.21.50272: Flags [P.], seq 907340:907504, ack 289, win 313, length 164
+18:31:52.397896 IP comp3134FirstDroplet.ssh > 198.96.85.21.50272: Flags [P.], seq 907504:907668, ack 289, win 313, length 164
+18:31:52.398004 IP comp3134FirstDroplet.ssh > 198.96.85.21.50272: Flags [P.], seq 907668:907832, ack 289, win 313, length 164
+18:31:52.398110 IP comp3134FirstDroplet.ssh > 198.96.85.21.50272: Flags [P.], seq 907832:907996, ack 289, win 313, length 164
+18:31:52.398217 IP comp3134FirstDroplet.ssh > 198.96.85.21.50272: Flags [P.], seq 907996:908160, ack 289, win 313, length 164
+18:31:52.398329 IP comp3134FirstDroplet.ssh > 198.96.85.21.50272: Flags [P.], seq 908160:908324, ack 289, win 313, length 164
+18:31:52.398459 IP comp3134FirstDroplet.ssh > 198.96.85.21.50272: Flags [P.], seq 908324:908488, ack 289, win 313, length 164
+18:31:52.398562 IP comp3134FirstDroplet.ssh > 198.96.85.21.50272: Flags [P.], seq 908488:908652, ack 289, win 313, length 164
+18:31:52.398663 IP comp3134FirstDroplet.ssh > 198.96.85.21.50272: Flags [P.], seq 908652:908816, ack 289, win 313, length 164
+18:31:52.398767 IP comp3134FirstDroplet.ssh > 198.96.85.21.50272: Flags [P.], seq 908816:908980, ack 289, win 313, length 164
+18:31:52.398870 IP comp3134FirstDroplet.ssh > 198.96.85.21.50272: Flags [P.], seq 908980:909144, ack 289, win 313, length 164
+18:31:52.398981 IP comp3134FirstDroplet.ssh > 198.96.85.21.50272: Flags [P.], seq 909144:909308, ack 289, win 313, length 164
+18:31:52.399090 IP comp3134FirstDroplet.ssh > 198.96.85.21.50272: Flags [P.], seq 909308:909472, ack 289, win 313, length 164
+18:31:52.399193 IP comp3134FirstDroplet.ssh > 198.96.85.21.50272: Flags [P.], seq 909472:909636, ack 289, win 313, length 164
+18:31:52.399313 IP comp3134FirstDroplet.ssh > 198.96.85.21.50272: Flags [P.], seq 909636:909800, ack 289, win 313, length 164
+18:31:52.399422 IP comp3134FirstDroplet.ssh > 198.96.85.21.50272: Flags [P.], seq 909800:909964, ack 289, win 313, length 164
+18:31:52.399527 IP comp3134FirstDroplet.ssh > 198.96.85.21.50272: Flags [P.], seq 909964:910128, ack 289, win 313, length 164
+18:31:52.399630 IP comp3134FirstDroplet.ssh > 198.96.85.21.50272: Flags [P.], seq 910128:910292, ack 289, win 313, length 164
+18:31:52.399758 IP comp3134FirstDroplet.ssh > 198.96.85.21.50272: Flags [P.], seq 910292:910456, ack 289, win 313, length 164
+18:31:52.399868 IP comp3134FirstDroplet.ssh > 198.96.85.21.50272: Flags [P.], seq 910456:910620, ack 289, win 313, length 164
+18:31:52.399971 IP comp3134FirstDroplet.ssh > 198.96.85.21.50272: Flags [P.], seq 910620:910784, ack 289, win 313, length 164
+18:31:52.400074 IP comp3134FirstDroplet.ssh > 198.96.85.21.50272: Flags [P.], seq 910784:910948, ack 289, win 313, length 164
+18:31:52.401831 IP 198.96.85.21.50272 > comp3134FirstDroplet.ssh: Flags [.], ack 904008, win 53, length 0
+18:31:52.401866 IP comp3134FirstDroplet.ssh > 198.96.85.21.50272: Flags [P.], seq 910948:911112, ack 289, win 313, length 164
+18:31:52.406169 IP 198.96.85.21.50272 > comp3134FirstDroplet.ssh: Flags [.], ack 906684, win 42, length 0
+18:31:52.406221 IP comp3134FirstDroplet.ssh > 198.96.85.21.50272: Flags [P.], seq 911112:911380, ack 289, win 313, length 268
+18:31:52.406420 IP comp3134FirstDroplet.ssh > 198.96.85.21.50272: Flags [P.], seq 911380:911648, ack 289, win 313, length 268
+18:31:52.406540 IP comp3134FirstDroplet.ssh > 198.96.85.21.50272: Flags [P.], seq 911648:911812, ack 289, win 313, length 164
+18:31:52.406650 IP comp3134FirstDroplet.ssh > 198.96.85.21.50272: Flags [P.], seq 911812:911976, ack 289, win 313, length 164
+18:31:52.406756 IP comp3134FirstDroplet.ssh > 198.96.85.21.50272: Flags [P.], seq 911976:912140, ack 289, win 313, length 164
+18:31:52.406861 IP comp3134FirstDroplet.ssh > 198.96.85.21.50272: Flags [P.], seq 912140:912304, ack 289, win 313, length 164
+18:31:52.406964 IP comp3134FirstDroplet.ssh > 198.96.85.21.50272: Flags [P.], seq 912304:912468, ack 289, win 313, length 164
+18:31:52.407065 IP comp3134FirstDroplet.ssh > 198.96.85.21.50272: Flags [P.], seq 912468:912632, ack 289, win 313, length 164
+18:31:52.407195 IP comp3134FirstDroplet.ssh > 198.96.85.21.50272: Flags [P.], seq 912632:912796, ack 289, win 313, length 164
+18:31:52.407300 IP comp3134FirstDroplet.ssh > 198.96.85.21.50272: Flags [P.], seq 912796:912960, ack 289, win 313, length 164
+18:31:52.407403 IP comp3134FirstDroplet.ssh > 198.96.85.21.50272: Flags [P.], seq 912960:913124, ack 289, win 313, length 164
+18:31:52.407505 IP comp3134FirstDroplet.ssh > 198.96.85.21.50272: Flags [P.], seq 913124:913288, ack 289, win 313, length 164
+18:31:52.407607 IP comp3134FirstDroplet.ssh > 198.96.85.21.50272: Flags [P.], seq 913288:913452, ack 289, win 313, length 164
+18:31:52.407708 IP comp3134FirstDroplet.ssh > 198.96.85.21.50272: Flags [P.], seq 913452:913616, ack 289, win 313, length 164
+18:31:52.407814 IP comp3134FirstDroplet.ssh > 198.96.85.21.50272: Flags [P.], seq 913616:913780, ack 289, win 313, length 164
+18:31:52.408728 IP 198.96.85.21.50272 > comp3134FirstDroplet.ssh: Flags [.], ack 910948, win 26, length 0
+18:31:52.408779 IP comp3134FirstDroplet.ssh > 198.96.85.21.50272: Flags [P.], seq 913780:913944, ack 289, win 313, length 164
+18:31:52.408798 IP 198.96.85.21.50272 > comp3134FirstDroplet.ssh: Flags [.], ack 911648, win 23, length 0
+18:31:52.408969 IP comp3134FirstDroplet.ssh > 198.96.85.21.50272: Flags [P.], seq 913944:914324, ack 289, win 313, length 380
+18:31:52.409082 IP comp3134FirstDroplet.ssh > 198.96.85.21.50272: Flags [P.], seq 914324:914488, ack 289, win 313, length 164
+18:31:52.409150 IP 198.96.85.21.50272 > comp3134FirstDroplet.ssh: Flags [.], ack 912468, win 20, length 0
+18:31:52.409256 IP comp3134FirstDroplet.ssh > 198.96.85.21.50272: Flags [P.], seq 914488:914756, ack 289, win 313, length 268
+18:31:52.409364 IP comp3134FirstDroplet.ssh > 198.96.85.21.50272: Flags [P.], seq 914756:914920, ack 289, win 313, length 164
+18:31:52.409468 IP comp3134FirstDroplet.ssh > 198.96.85.21.50272: Flags [P.], seq 914920:915084, ack 289, win 313, length 164
+18:31:52.409572 IP comp3134FirstDroplet.ssh > 198.96.85.21.50272: Flags [P.], seq 915084:915248, ack 289, win 313, length 164
+18:31:52.409674 IP comp3134FirstDroplet.ssh > 198.96.85.21.50272: Flags [P.], seq 915248:915412, ack 289, win 313, length 164
+18:31:52.409776 IP comp3134FirstDroplet.ssh > 198.96.85.21.50272: Flags [P.], seq 915412:915576, ack 289, win 313, length 164
+18:31:52.409878 IP comp3134FirstDroplet.ssh > 198.96.85.21.50272: Flags [P.], seq 915576:915740, ack 289, win 313, length 164
+18:31:52.409982 IP comp3134FirstDroplet.ssh > 198.96.85.21.50272: Flags [P.], seq 915740:915904, ack 289, win 313, length 164
+18:31:52.410116 IP comp3134FirstDroplet.ssh > 198.96.85.21.50272: Flags [P.], seq 915904:916068, ack 289, win 313, length 164
+18:31:52.410227 IP comp3134FirstDroplet.ssh > 198.96.85.21.50272: Flags [P.], seq 916068:916232, ack 289, win 313, length 164
+18:31:52.410329 IP comp3134FirstDroplet.ssh > 198.96.85.21.50272: Flags [P.], seq 916232:916396, ack 289, win 313, length 164
+18:31:52.410452 IP comp3134FirstDroplet.ssh > 198.96.85.21.50272: Flags [P.], seq 916396:916560, ack 289, win 313, length 164
+18:31:52.410557 IP comp3134FirstDroplet.ssh > 198.96.85.21.50272: Flags [P.], seq 916560:916724, ack 289, win 313, length 164
+18:31:52.410658 IP comp3134FirstDroplet.ssh > 198.96.85.21.50272: Flags [P.], seq 916724:916888, ack 289, win 313, length 164
+18:31:52.410761 IP comp3134FirstDroplet.ssh > 198.96.85.21.50272: Flags [P.], seq 916888:917052, ack 289, win 313, length 164
+18:31:52.410821 IP 198.96.85.21.50272 > comp3134FirstDroplet.ssh: Flags [.], ack 913124, win 17, length 0
+18:31:52.410928 IP comp3134FirstDroplet.ssh > 198.96.85.21.50272: Flags [P.], seq 917052:917320, ack 289, win 313, length 268
+18:31:52.412226 IP 198.96.85.21.50272 > comp3134FirstDroplet.ssh: Flags [.], ack 913780, win 15, length 0
+18:31:52.412254 IP comp3134FirstDroplet.ssh > 198.96.85.21.50272: Flags [P.], seq 917320:917484, ack 289, win 313, length 164
+18:31:52.412273 IP 198.96.85.21.50272 > comp3134FirstDroplet.ssh: Flags [.], ack 914920, win 10, length 0
+18:31:52.413206 IP 198.96.85.21.50272 > comp3134FirstDroplet.ssh: Flags [.], ack 916396, win 4, length 0
+18:31:52.413572 IP 198.96.85.21.50272 > comp3134FirstDroplet.ssh: Flags [.], ack 917320, win 1, length 0
+18:31:52.468726 IP 198.96.85.21.50272 > comp3134FirstDroplet.ssh: Flags [.], ack 917484, win 0, length 0
+18:31:52.688403 IP comp3134FirstDroplet.ssh > 198.96.85.21.50272: Flags [.], ack 289, win 313, length 0
+18:31:52.695656 IP 198.96.85.21.50272 > comp3134FirstDroplet.ssh: Flags [.], ack 917484, win 0, length 0
+18:31:52.804506 IP host-115-1-49.ufinet.com.gt.55126 > comp3134FirstDroplet.ssh: Flags [S], seq 1990233722, win 29200, options [mss 1460,sackOK,TS val 91740108 ecr 0,nop,wscale 7], length 0
