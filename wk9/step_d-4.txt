@@ -1,0 +1,2 @@
+The browser is showing the file contents of the var folder or specifically the structure of two parent directories above the php file
+The file structure of the var folder is being exposed as the sensitive information

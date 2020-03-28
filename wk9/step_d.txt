@@ -1,0 +1,2 @@
+The PHP file is throwing an error because the query string is returning an error based on the non existing file
+The sensitive information being exposed is the directory structure of the droplet and the existence or lack of, of certain files or directories

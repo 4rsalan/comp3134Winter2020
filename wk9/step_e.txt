@@ -1,0 +1,3 @@
+file_exists() lets us check to see if a path exists or not. if the path doesn't exist then it default prints the current directory. this work as a form of error handling so a potential attacker is forced to redirect to the current directory
+
+basename() reads the path given to it and outputs the relative path. This is important because the function allows our parameter to only be concerned with the contents of the folder inside it and not what's out

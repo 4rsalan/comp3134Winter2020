@@ -1,0 +1,2 @@
+The browser is showing the file contents of the folder one directory above the PHP file. it uses percent encoded query statements to traverse
+The file structure of the www folder is being exposed as the sensitive information
