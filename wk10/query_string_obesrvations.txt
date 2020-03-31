@@ -1,0 +1,10 @@
+1.) When entering a valid word the website loads a page with the information related to the
+query string being displayed on the screen. The URL of the website also as the query string in the parameters meaning that this search form used a GET request
+
+2.) Entering an invalid word has the website load a page indicating no results found for the entered query string. Additionally the URL for the website no longer has /browse followed by the query string but instead has /misspelling
+followed by the query string instead. Website likely redirects user to different page after validating string
+
+3.) The website redirected but instead of a no results found page, it returned a page with a prompt stating 'results for <script>alert(%27hello%27)</script>'. Additionally in the URL it displays /noresult instead of /misspelling
+or /browse. This indicates that this page is used for invalid results or non word queries. 
+
+4.) The result seems to be the same as the previous query but it displayed less information

@@ -1,0 +1,3 @@
+html entities execute the contents of the tag but still allow malicious code to be executed in script tags
+
+strip tags however removes all tags when parsing a string input and only displays the contents inside the tags, therefor blocking execution of malicious script tag codes
