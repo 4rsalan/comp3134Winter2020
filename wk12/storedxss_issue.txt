@@ -1,0 +1,4 @@
+The storexss.php file reads the contents of the storedxss.txt file which contains code for a script.
+The script is executed immediatly upon accessing the webpage because the file is unfiltered and outputted directly
+This redirects the web browser to to the directory_traversal_part_1.php page
+To prevent this from happening the storedxss.txt file needs to be properly sanitised so that is does not execute any unwanted scripts

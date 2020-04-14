@@ -1,0 +1,3 @@
+Similar to the original behaviour os the csfr.html file where the form is autosubmitted via Javascript, this file did something similar. It bypaases the original form and validates the data. Unlike the original form where the login
+was a success. This form rendered the invalid session message. Because the confirmation variable in the csfr_action file didn't match the session confirmation variable of the form, the session was deemed as invalid and refused to
+let the user log in. This means the files were a successful attempt at dealing with a Cross Site Forgery Request. 
