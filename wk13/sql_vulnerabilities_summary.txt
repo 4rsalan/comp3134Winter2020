@@ -1,0 +1,8 @@
+1. When you type in Ben in the input field, the table displays nothing. This is expected as the query returns
+matching values as well as values that are active. The user Ben has active = 0 meaning it won't be displayed
+
+2. When you input "Ben'-- " the table returns a single row with the user Ben. This is unexpected because the website
+is displaying an inactive user. The input value was able to break the query and return a record it shouldn't be able to.
+Perhaps commenting out SQL code to wipe the parameter query.
+
+3. When typing "Ben’ or 1=1" into the input field the table returns an empty table. 
